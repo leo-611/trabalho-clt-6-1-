@@ -61,4 +61,5 @@ header p {
     border: 2px solid red;
     display: inline-flex;
     align-items: center;
-    justify-content
+    justify-content:center;
+}
