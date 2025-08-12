@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meu Site Simples</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Dragon Ball Z</h1>
+            <p>Os Guerreiros Mais Poderosos do Universo</p>
+        </div>
+    </header>
+    
+    <main class="container">
+        <div class="gallery">
+            <div class="small-rect">
+                <img src="https://i.imgur.com/Goku_icon.png" alt="Goku" />
+            </div>
+            <div class="small-rect">
+                <img src="https://i.imgur.com/Vegeta_icon.png" alt="Vegeta" />
+            </div>
+            <div class="small-rect">
+                <img src="https://i.imgur.com/Gohan_icon.png" alt="Gohan" />
+            </div>
+        </div>
+        
+        <div class="gallery" style="padding-bottom: 30px;">
+            <div class="big-square">
+                <img src="https://i.imgur.com/SSJ_Goku.jpg" alt="Super Saiyan Goku" />
+            </div>
+            <div class="big-square">
+                <img src="https://i.imgur.com/SSJ_Vegeta.jpg" alt="Super Saiyan Vegeta" />
+            </div>
+            <div class="big-square">
+                <img src="https://i.imgur.com/SSJ2_Gohan.jpg" alt="Super Saiyan 2 Gohan" />
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>Dragon Ball Z &copy; Akira Toriyama - Todos os direitos reservados</p>
+        </div>
+    </footer>
+</body>
+</html>
